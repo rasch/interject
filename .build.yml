@@ -25,4 +25,5 @@ tasks:
       set +x
       . ~/.env
       set -x
+      pnpm run --silent gen-types
       npm publish --access public
