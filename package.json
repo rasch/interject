@@ -33,7 +33,7 @@
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "https://git.sr.ht/~rasch/interject"
+    "url": "https://git.sr.ht/~rasch/interject.git"
   },
   "devDependencies": {
     "c8": "^9.1.0",
